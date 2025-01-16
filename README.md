@@ -2,17 +2,17 @@
 Este proyecto simula la gestión de usuarios en un gimnasio. Inicialmente, mi intención era que se añadiesen nuevas actividades al array de actividades como "Spinning", "Crossfit", etc, y que, en el registro de usuario, se añadiese una clave asociada a cada uno de ellos. Posteriormente, quería crear una función que mostrase la información de todos los usuarios registrados. Pero, finalmente, decidí que las mejoras realizadas se centrasen en permitir a los usuarios acceder a su información personal mediante una clave de acceso, introducida por teclado, aumentando así, la complejidad y la utilidad del programa.
 
 # Mejoras realizadas
-1. Clase Usuario
+1. Clase Usuario:
 -Se creó una nueva clase Usuario para gestionar la información de cada usuario para almacenarla posteriormente.
 -La clase almacena el nombre del usuario, su clave de acceso y las actividades a las que se haya registrado.
 
-2. Almacenamiento Dinámico de Usuarios
+2. Almacenamiento Dinámico de Usuarios:
 -Se implementó un ArrayList<Usuario> para almacenar múltiples usuarios.
 
-3. Acceso a Información del usuario mediante una función que utiliza la clave de acceso asignada
+3. Acceso a Información del usuario mediante una función que utiliza la clave de acceso asignada:
 -Se añadió un método buscarClave(int claveAcceso) para permitir a los usuarios consultar su información ingresando su clave de acceso.
 
-4. Ampliación de las actividades disponibles en el gimnasio
+4. Ampliación de las actividades disponibles en el gimnasio:
 -Se amplió la lista de actividades del gimnasio.
 
 # Justificación de los Cambios
