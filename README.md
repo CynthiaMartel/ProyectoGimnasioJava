@@ -1,5 +1,5 @@
 # Descripción
-Este proyecto simula la gestión de usuarios en un gimnasio. Inicialmente, mi intención era que se añadiesen nuevas actividades al array de actividades como"Spinning", "Crossfit", etc, y que, en el registro de usuario, se añadiese una clave asociada a cada uno de ellos. Posteriormente, quería crear una función que mostrase la información de todos los usuarios registrados. Pero, finalmente, decidí que las mejoras realizadas se centren en permitir a los usuarios acceder a su información personal mediante una clave de acceso, introducida por teclado, aumentando así, la complejidad y la utilidad del programa.
+Este proyecto simula la gestión de usuarios en un gimnasio. Inicialmente, mi intención era que se añadiesen nuevas actividades al array de actividades como "Spinning", "Crossfit", etc, y que, en el registro de usuario, se añadiese una clave asociada a cada uno de ellos. Posteriormente, quería crear una función que mostrase la información de todos los usuarios registrados. Pero, finalmente, decidí que las mejoras realizadas se centrasen en permitir a los usuarios acceder a su información personal mediante una clave de acceso, introducida por teclado, aumentando así, la complejidad y la utilidad del programa.
 
 # Mejoras realizadas
 1. Clase Usuario
